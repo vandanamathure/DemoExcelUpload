@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DemoExcelUpload": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"C:\\Users\\vanda\\source\\repos\\DemoExcelUpload\\testData\\CountryList.xlsx\" -w \"CountryList\" -s 2 -e 250 -l 1 -h 2"
+    }
+  }
+}

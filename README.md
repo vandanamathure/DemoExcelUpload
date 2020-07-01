@@ -1,2 +1,4 @@
-# DemoExcelUpload
-Create a console application which reads local file supplied in argument, maps it to a custom c# object and prints JSON Array
+# Demo - Excel Upload
+
+Purpose of this application is to demonstrate the ability to read excel file localed on local hard drive.
+
