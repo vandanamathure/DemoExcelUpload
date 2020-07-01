@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace VandanaMathure.DemoExcelUpload
+﻿namespace VandanaMathure.DemoExcelUpload
 {
     /// <summary>
     /// Data model for Country
